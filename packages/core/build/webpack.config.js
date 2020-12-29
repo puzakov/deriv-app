@@ -14,7 +14,7 @@ module.exports = function (env, argv) {
             openPage: sub_path,
             host: 'localhost',
             https: false,
-            port: 80,
+            port: 5000,
             historyApiFallback: true,
             stats: {
                 colors: true,
